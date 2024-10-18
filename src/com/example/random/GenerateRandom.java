@@ -5,13 +5,28 @@ import java.util.Scanner;
 
 public class GenerateRandom {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter limit Number: ");
-		int randomNum=sc.nextInt();
 		Random random = new Random();
-        int randomNumber = random.nextInt(randomNum) ; 
-        System.out.println("Random Number: " + randomNumber);
-		
+		Scanner sc = new Scanner(System.in);
+		int computerChoice=random.nextInt(20);
+		System.out.println("Computer Number: " + computerChoice);
+	//for loop	
+		for(int i=1;i<=6;i++) {
+		System.out.println("Guess a Num bet 0 and 20: ");
+		int userChoice=sc.nextInt();
+		//if loop
+		if(userChoice>computerChoice) {
+			System.out.println("guess is high");
+		}else if(userChoice<computerChoice) {
+			System.out.println("guess is low");
+		} else {
+			System.out.println("gotcha! you guessed it right.");
+			break;
+		}
+		}
 	}
+       
+      
+		
+	
 
 }
