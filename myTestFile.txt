@@ -1,4 +1,35 @@
-Thanos is inEvitableI am Pavani
-i am the forest
-i am software developer
-Thanos is inEvitable
+Pikachu,Electric
+Bulbasaur,Grass
+Bulbasaur,Poison
+Charmander,Fire
+Squirtle,Water
+Jigglypuff,Normal
+Jigglypuff,Fairy
+Meowth,Normal
+Psyduck,Water
+Snorlax,Normal
+Eevee,Normal
+Gengar,Ghost
+Gengar,Poison
+Vaporeon,Water
+Jolteon,Electric
+Flareon,Fire
+Machamp,Fighting
+Alakazam,Psychic
+Dragonite,Dragon
+Dragonite,Flying
+Mewtwo,Psychic
+Lapras,Water
+Lapras,Ice
+Onix,Rock
+Onix,Ground
+Gyarados,Water
+Gyarados,Flying
+Magikarp,Water
+Arcanine,Fire
+Scyther,Bug
+Scyther,Flying
+Growlithe,Fire
+Pidgey,Normal
+Pidgey,Flying
+Rattata,Normal
